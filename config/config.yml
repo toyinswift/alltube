@@ -32,7 +32,7 @@ ffmpegVerbosity: error
 phantomjsDir: /usr/bin/
 
 # True to disable URL rewriting
-uglyUrls: false
+uglyUrls: true
 # True to stream videos through server
 # Set to "ask" if you want to allow it but not enable by default.
 stream: false
