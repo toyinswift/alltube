@@ -50,6 +50,13 @@ composer install
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+#On Google Cloud Run
+
+Cloudron is a complete solution for running apps on your server and keeping them up-to-date and secure managed by Google
+
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
+
+
 ### On Cloudron
 
 Cloudron is a complete solution for running apps on your server and keeping them up-to-date and secure.
