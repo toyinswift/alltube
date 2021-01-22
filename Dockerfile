@@ -11,5 +11,4 @@ COPY . /var/www/html/
 RUN php composer.phar check-platform-reqs --no-dev
 RUN php composer.phar install --prefer-dist --no-progress --no-dev --optimize-autoloader
 ENV CONVERT=1
-ENV PORT 8080
 
