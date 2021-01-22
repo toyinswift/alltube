@@ -10,14 +10,6 @@
     "youtube",
     "php"
   ],
-  "buildpacks": [
-    {
-      "url": "heroku/php"
-    },
-    {
-      "url": "heroku/python"
-    }
-  ],
   "env": {
     "PYTHON": {
       "description": "Path to python binary",
